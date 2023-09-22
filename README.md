@@ -28,7 +28,7 @@
 <br/><br/>
 
 
-The Pyhton code for finding the slope and thr y-intersecpt are as follows:
+The Pyhton code for finding the slope and the y-intersecpt are as follows:
 ```
 def best_fit_slope_and_intercept(xs,ys):  #function for finding the slope and y intercept.
 
